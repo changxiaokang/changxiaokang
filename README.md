@@ -13,13 +13,3 @@ Here are some ideas to get you started:
 -->
 
 ![](./res/InternetAge.gif)
-<p>
-  <!--
-  <a href="https://github.com/Cxk4ng">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxk4ng&layout=compact" height="150"/>
-  </a>
-  -->
-  <a href="https://github.com/Cxk4ng">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cxk4ng&hide=issues&show_icons=true" height="150"/>
-  </a>
-</p>
